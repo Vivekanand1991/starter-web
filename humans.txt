@@ -16,3 +16,9 @@
 
 
 Updated humans.text from master
+
+
+Making change1 from the master branch 
+
+
+Making change2 from the master branch 
